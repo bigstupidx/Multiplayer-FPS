@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Khsuhboo/Desktop/New Unity Project/Assets/Scenes/Maze.unity
+  isLoaded: 1
+  isActive: 1
